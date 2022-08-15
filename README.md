@@ -251,7 +251,7 @@ Capacitor
 
 4. Preguntas :
 
-1. ¿Cómo se comporta la bobina y el capacitor en corriente continua (Cero Hz)?
+1.¿Cómo se comporta la bobina y el capacitor en corriente continua (Cero Hz)?
 
 Las bobinas almacenan energía en forma de campo magnético. Al conectar una corriente continua, la bobina retiene el paso de electrones hasta que se establece el campo magnético.
 
