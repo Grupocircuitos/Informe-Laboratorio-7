@@ -239,6 +239,8 @@ Voltaje Pico
 
 3.2 Analisis de Resultados :
 
+1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+
 Inductor
 
 ![image](https://user-images.githubusercontent.com/94025287/153907800-df289d45-8360-4e83-91e7-3995ffe673d0.png)
